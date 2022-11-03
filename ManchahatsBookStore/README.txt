@@ -23,3 +23,10 @@ and program started successfully
 11:16
 ManchahatBookstore page created 
 moving ahead to download the bootstrap file from bootswatch.com
+
+11:25
+downloded the lux bootstrap file and replaced this file with existing file which was in wwwroot folder 
+and changed bootstrap.min.css to bootstrap.css in _layout.cshtml
+from-  <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+to -  <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+
