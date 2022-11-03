@@ -45,3 +45,11 @@ added the additional script in layout.cshtml
 added content management to nav bar in layout.cshtml 
 but shows error in UI
 somthing is wrong 
+
+10:00
+created three new projects 
+Manchahatbooks.dataAccess
+ManchahatBooks.Models
+ManchahatBooks.Utility
+
+after that i copied the data folder in .Dataaccess project and deleted original data file
