@@ -37,3 +37,6 @@ in line 23 removed the given text-dark
 11:35
 made some changes in _loginpartial.cshtml file 
 in line 9 i removed text-dark
+
+9:14 
+added the additional script in layout.cshtml 
