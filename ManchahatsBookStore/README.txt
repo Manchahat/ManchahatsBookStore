@@ -30,3 +30,6 @@ and changed bootstrap.min.css to bootstrap.css in _layout.cshtml
 from-  <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
 to -  <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
 
+11:29
+in layout.cshtml i have changed navbar-light to navbar-dark and bg-white to bg-primary
+in line 23 removed the given text-dark
