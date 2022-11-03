@@ -33,3 +33,7 @@ to -  <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
 11:29
 in layout.cshtml i have changed navbar-light to navbar-dark and bg-white to bg-primary
 in line 23 removed the given text-dark
+
+11:35
+made some changes in _loginpartial.cshtml file 
+in line 9 i removed text-dark
