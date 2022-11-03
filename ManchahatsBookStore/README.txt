@@ -52,4 +52,5 @@ Manchahatbooks.dataAccess
 ManchahatBooks.Models
 ManchahatBooks.Utility
 
-after that i copied the data folder in .Dataaccess project and deleted original data file
+after that i copied the data folder
+in .Dataaccess project and deleted original data file
