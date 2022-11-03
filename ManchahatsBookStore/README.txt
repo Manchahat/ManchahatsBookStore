@@ -40,3 +40,8 @@ in line 9 i removed text-dark
 
 9:14 
 added the additional script in layout.cshtml 
+
+9:44
+added content management to nav bar in layout.cshtml 
+but shows error in UI
+somthing is wrong 
