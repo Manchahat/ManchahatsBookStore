@@ -15,3 +15,11 @@ Updated the readme file on github
 Did some changes in startup.cs file deleted the code which was given
 Given- (services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true))
 Changed-  services.AddDefaultIdentity<IdentityUser>()
+
+11:15
+in controller file i added two break points and run the program
+and program started successfully
+
+11:16
+ManchahatBookstore page created 
+moving ahead to download the bootstrap file from bootswatch.com
