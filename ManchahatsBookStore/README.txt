@@ -83,3 +83,6 @@ to     ManchahatBookStore.Models.ViewModels
 
 1:18pm
 did some changes in startup.cs file and run the application without any error
+
+1:41
+added the ptoject refrence and did changes in utility file

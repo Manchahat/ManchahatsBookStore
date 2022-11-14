@@ -18,6 +18,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ManchahatBooks.DataAccess\ManchahatBooks.DataAccess.csproj" />
     <ProjectReference Include="..\ManchahatBooks.Models\ManchahatBooks.Models.csproj" />
+    <ProjectReference Include="..\ManchahatBooks.Utility\ManchahatBooks.Utility.csproj" />
   </ItemGroup>
 
 </Project>
