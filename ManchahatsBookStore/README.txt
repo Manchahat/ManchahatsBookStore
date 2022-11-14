@@ -57,3 +57,11 @@ after that i copied the data folder in .Dataaccess project and deleted original 
 14 november
 10:40 am
 i sovle the errors which were coming in the layout file and then i run the program and it started working properly
+
+12:35pm
+installed all three packages
+Microsoft.EntityframeworkCore.Relational
+core.SqlServer
+Identity.EntityFrameworkCore
+installed properly
+After that i deleted migration folder
