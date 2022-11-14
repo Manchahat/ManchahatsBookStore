@@ -90,3 +90,8 @@ added the ptoject refrence and did changes in utility file
 4:40pm
 added refrence of models and utility to ManchahatBooks.DataAccess
 Created MVC areas with name customers in Areas folder
+
+4:50pm
+changed the location of homecontroller.cs file moved to areas-customer. nad deleted data and models folder
+and modified home controller name space
+

@@ -7,8 +7,10 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ManchahatsBookStore.Controllers
+namespace ManchahatsBookStore.Area.Customer.Controllers
 {
+    // added the route of controller
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
