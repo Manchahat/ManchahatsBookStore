@@ -1,5 +1,6 @@
 using System;
 
+//changed the namespace
 namespace ManchahatsBookStore.Models.ViewModels
 {
     public class ErrorViewModel

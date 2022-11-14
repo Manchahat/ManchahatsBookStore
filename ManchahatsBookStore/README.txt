@@ -80,3 +80,6 @@ added project refrence and rename models folder to ViewModels
 after that rename the namespace 
 from   ManchahatBookStore.Models
 to     ManchahatBookStore.Models.ViewModels
+
+1:18pm
+did some changes in startup.cs file and run the application without any error

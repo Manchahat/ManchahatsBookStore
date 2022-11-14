@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
+//changed the namespace here
 namespace ManchahatsBookStore.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext
