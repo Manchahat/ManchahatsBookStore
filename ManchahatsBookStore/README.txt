@@ -84,5 +84,9 @@ to     ManchahatBookStore.Models.ViewModels
 1:18pm
 did some changes in startup.cs file and run the application without any error
 
-1:41
+1:41 pm
 added the ptoject refrence and did changes in utility file
+
+4:40pm
+added refrence of models and utility to ManchahatBooks.DataAccess
+Created MVC areas with name customers in Areas folder

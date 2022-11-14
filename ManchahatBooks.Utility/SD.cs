@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ManchahatBooks.Utility
 {
-  //changed the property
+  //changed the property to public static class SD
     public static class SD
     {
     }
