@@ -53,3 +53,7 @@ ManchahatBooks.Models
 ManchahatBooks.Utility
 
 after that i copied the data folder in .Dataaccess project and deleted original data file
+
+14 November 
+10:40 am
+i fixed the errors which were coming while adding nav bar in layout file and run the program and it started working properly.
