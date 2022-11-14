@@ -74,3 +74,9 @@ next deleted Class1.cs file from all three projects
 
 12:50pm
 model folder moved into ManchahatBooks.models project
+
+12:58pm
+added project refrence and rename models folder to ViewModels
+after that rename the namespace 
+from   ManchahatBookStore.Models
+to     ManchahatBookStore.Models.ViewModels
