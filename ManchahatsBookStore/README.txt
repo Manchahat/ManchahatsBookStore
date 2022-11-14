@@ -66,8 +66,11 @@ Identity.EntityFrameworkCore
 installed properly
 After that i deleted migration folder
 
-12:40
+12:40 pm
 corrected the namespace
 from ManchahatBookStore.Data  
 to ManchahatBookStore.DataAccess.Data
 next deleted Class1.cs file from all three projects
+
+12:50pm
+model folder moved into ManchahatBooks.models project
