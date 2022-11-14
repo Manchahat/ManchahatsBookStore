@@ -95,3 +95,6 @@ Created MVC areas with name customers in Areas folder
 changed the location of homecontroller.cs file moved to areas-customer. nad deleted data and models folder
 and modified home controller name space
 
+5:00pm
+added the new route for viewstart.cshtml which was copied to home file in views
+

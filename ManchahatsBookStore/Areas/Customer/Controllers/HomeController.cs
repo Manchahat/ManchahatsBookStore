@@ -7,6 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
+// changed the namespace
 namespace ManchahatsBookStore.Area.Customer.Controllers
 {
     // added the route of controller
