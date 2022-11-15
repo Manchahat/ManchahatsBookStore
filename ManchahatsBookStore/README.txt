@@ -137,3 +137,8 @@ and CategoryRepository
 15november
 8:06am
 Done the changes in category and icategory class and fixed the errors 
+
+8:27am
+created new class name ISP_Call in irepository
+and downloded dapper package
+now errors are fixed
