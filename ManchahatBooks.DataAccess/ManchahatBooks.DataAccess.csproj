@@ -15,4 +15,8 @@
     <ProjectReference Include="..\ManchahatBooks.Utility\ManchahatBooks.Utility.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Repository\IRepository\" />
+  </ItemGroup>
+
 </Project>

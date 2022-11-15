@@ -1,4 +1,5 @@
-﻿using ManchahatBooks.Models;
+﻿//added using of models project
+using ManchahatBooks.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -15,6 +16,7 @@ namespace ManchahatsBookStore.DataAccess.Data
         {
         }
 
+        // added new statement which was given
         public DbSet<Category> Categories { get; set; }
     }
 }

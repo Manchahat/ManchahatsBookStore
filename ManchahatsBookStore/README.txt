@@ -117,3 +117,9 @@ and it build successfully
 added new class in models project by naming it category.cs
 and added the migration by running the code add-migration AddCategoryToDb
 done sone changes in addcategorytodb.cs
+
+8:49pm
+created new folder in ManchahatBooks.DataAccess
+(Repository)
+in Repository
+i made the new folder and name it IRepository
