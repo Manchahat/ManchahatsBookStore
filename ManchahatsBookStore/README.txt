@@ -165,3 +165,6 @@ Build the and there were no errors
 created category folder 
 and one views file name index.cshtml
 and modified it 
+
+10:58am
+updated category controller
