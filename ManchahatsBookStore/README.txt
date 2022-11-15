@@ -112,3 +112,8 @@ and run successfully by changing the default project manchahatBookStore.DataAcce
 7:43pm
 updated database
 and it build successfully
+
+8:10pm
+added new class in models project by naming it category.cs
+and added the migration by running the code add-migration AddCategoryToDb
+done sone changes in addcategorytodb.cs
