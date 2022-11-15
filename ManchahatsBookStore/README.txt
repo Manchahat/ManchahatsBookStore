@@ -133,3 +133,7 @@ done changes in repository.cs file
 9:47pm
 created ICategoryrepository
 and CategoryRepository
+
+15november
+8:06am
+Done the changes in category and icategory class and fixed the errors 
