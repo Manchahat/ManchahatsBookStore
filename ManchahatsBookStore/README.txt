@@ -100,3 +100,6 @@ added the new route for viewstart.cshtml which was copied to home file in views
 
 7:01pm
 added the new admin area in areas folder and deleted controller folder
+
+7:16pm
+modified the database name and used the nuget package manager console for adding the migration
