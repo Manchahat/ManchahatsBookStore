@@ -103,3 +103,12 @@ added the new admin area in areas folder and deleted controller folder
 
 7:16pm
 modified the database name and used the nuget package manager console for adding the migration
+
+7:40pm
+run the package manager console 
+by add-migration AddDefaultIdentityMigration
+and run successfully by changing the default project manchahatBookStore.DataAccess
+
+7:43pm
+updated database
+and it build successfully
