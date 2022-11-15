@@ -159,3 +159,9 @@ and modified it
 
 9:58am
 Build the and there were no errors
+
+
+10:10am
+created category folder 
+and one views file name index.cshtml
+and modified it 

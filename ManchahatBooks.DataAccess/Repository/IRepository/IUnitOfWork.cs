@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ManchahatBooks.DataAccess.Repository.IRepository
 {
-    interface UnitOfWork : IDisposable
+    interface IUnitOfWork : IDisposable
     {
         ICategoryrepository Category { get;  }
 
