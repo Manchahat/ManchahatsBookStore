@@ -129,3 +129,7 @@ i created new class (Repository)
 
 9:40pm
 done changes in repository.cs file 
+
+9:47pm
+created ICategoryrepository
+and CategoryRepository
