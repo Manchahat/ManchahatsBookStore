@@ -98,3 +98,5 @@ and modified home controller name space
 5:00pm
 added the new route for viewstart.cshtml which was copied to home file in views
 
+7:01pm
+added the new admin area in areas folder and deleted controller folder
