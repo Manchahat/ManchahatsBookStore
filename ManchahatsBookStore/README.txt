@@ -123,3 +123,9 @@ created new folder in ManchahatBooks.DataAccess
 (Repository)
 in Repository
 i made the new folder and name it IRepository
+
+9:20pm
+i created new class (Repository)
+
+9:40pm
+done changes in repository.cs file 
