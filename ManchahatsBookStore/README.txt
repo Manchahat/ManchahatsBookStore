@@ -142,3 +142,7 @@ Done the changes in category and icategory class and fixed the errors
 created new class name ISP_Call in irepository
 and downloded dapper package
 now errors are fixed
+
+8:40am
+created class name SP_Call.cs in repository
+and updated the implement in SP_Call
