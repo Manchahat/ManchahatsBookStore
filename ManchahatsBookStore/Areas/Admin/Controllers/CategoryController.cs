@@ -21,16 +21,15 @@ namespace ManchahatsBookStore.Areas.Admin.Controllers
         }
 
         //API calls here
-        #region API CALLS
+        #region  API CALLS
         [HttpGet]
 
         public IActionResult GetAll()
         {
-            // return not found
-
+            // return not found 
             var allObj = _unitOfWork.Category.GetAll();
             return Json(new { data = allObj });
         }
-#endregion
+        #endregion
     }
 }
