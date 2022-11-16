@@ -14,6 +14,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using ManchahatsBookStore.DataAccess.Data;
 using ManchahatBooks.DataAccess.Repository;
+using ManchahatsBookStore.Areas.Admin.Controllers;
 
 namespace ManchahatsBookStore
 {
@@ -34,7 +35,7 @@ namespace ManchahatsBookStore
                     Configuration.GetConnectionString("DefaultConnection")));
              services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
-            services.AddScoped<UnitOfWork, UnitOfWork>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddControllersWithViews();
             services.AddRazorPages();
         }

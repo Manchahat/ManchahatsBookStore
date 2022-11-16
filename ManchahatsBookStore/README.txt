@@ -165,3 +165,7 @@ Build the and there were no errors
 created category folder 
 and one views file name index.cshtml
 and modified it 
+
+2022-11-16
+10:17am
+the errors which were coming were sorted
