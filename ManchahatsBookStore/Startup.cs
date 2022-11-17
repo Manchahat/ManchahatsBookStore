@@ -69,6 +69,9 @@ namespace ManchahatsBookStore
                     areaName: "Costumer",
                     // added route for scaffolding ReadMe.txt
                     pattern: "{area=customer}/{controller=Home}/{action=Index}/{id?}") ;
+                endpoints.MapControllerRoute(
+                    name: "default",
+                    pattern: "{}controller=Home}/{action=index}/{id?}");
 
                 endpoints.MapRazorPages();
             });
