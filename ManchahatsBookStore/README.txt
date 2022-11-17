@@ -170,3 +170,7 @@ did some change in starup .cs
 
 2022-11-17
 i don't know why my local host is not working fixed the errors but still its not working
+
+11:45am
+
+while starting the website the error 500 is coming which is the main issue 
