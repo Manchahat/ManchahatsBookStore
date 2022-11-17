@@ -66,7 +66,7 @@ namespace ManchahatsBookStore
             {
                 endpoints.MapControllerRoute(
                     name: "Areas",
-                    areaName:"Customer",
+                    areaName: "Customer",
 
                     // added route for scaffolding ReadMe.txt
                     pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
