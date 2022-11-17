@@ -14,7 +14,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using ManchahatsBookStore.DataAccess.Data;
 using ManchahatBooks.DataAccess.Repository;
-using ManchahatsBookStore.Areas.Admin.Controllers;
+
 
 namespace ManchahatsBookStore
 {
@@ -35,7 +35,7 @@ namespace ManchahatsBookStore
                     Configuration.GetConnectionString("DefaultConnection")));
              services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
-            services.AddScoped<IUnitOfWork, UnitOfWork>();
+            
             services.AddControllersWithViews();
             services.AddRazorPages();
         }
@@ -65,14 +65,9 @@ namespace ManchahatsBookStore
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
-                    name: "Areas",
-                    areaName: "Costumer",
-                    // added route for scaffolding ReadMe.txt
-                    pattern: "{area=customer}/{controller=Home}/{action=Index}/{id?}") ;
-                endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{}controller=Home}/{action=index}/{id?}");
-
+                    // added route for scaffolding ReadMe.txt
+                    pattern: "{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();
             });
         }
