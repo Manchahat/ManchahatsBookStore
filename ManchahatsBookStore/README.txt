@@ -167,3 +167,6 @@ and one views file name index.cshtml
 and modified it 
 
 did some change in starup .cs
+
+2022-11-17
+i don't know why my local host is not working fixed the errors but still its not working
