@@ -54,7 +54,7 @@ ManchahatBooks.Utility
 
 after that i copied the data folder in .Dataaccess project and deleted original data file
 
-14 november
+2022-11-14
 10:40 am
 i sovle the errors which were coming in the layout file and then i run the program and it started working properly
 
@@ -134,7 +134,7 @@ done changes in repository.cs file
 created ICategoryrepository
 and CategoryRepository
 
-15november
+2022-11-15
 8:06am
 Done the changes in category and icategory class and fixed the errors 
 
