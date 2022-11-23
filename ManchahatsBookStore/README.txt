@@ -181,4 +181,10 @@ while starting the website the error 500 is coming which is the main issue
 
 the error of local host which was showing 
 i fixed the error because of database and there was an error with the viewimports.cshtml and viewsstart.cshtml
-which is fixed and app is working for now
+which is fixed and app is working for now.
+
+11:21 am
+changed the navigation and action replaced to Category
+  <a class="dropdown-item" asp-area="Admin" asp-controller="Category" asp-action="Index">Category</a>
+
+  the content of Category was displayed
