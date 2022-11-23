@@ -194,3 +194,8 @@ changed the navigation and action replaced to Category
   i created new js file name category.js in wwwroot and done the changes in that file 
   after that i added the section section call of category.js in index.cshtml file 
   and run the app the category list was working properly
+
+  12:00pm
+
+  I created Upsert file and modified it with the given code 
+  and another partial view file name (_CreateAndBackToListButton.cshtml)
