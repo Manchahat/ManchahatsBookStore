@@ -188,3 +188,9 @@ changed the navigation and action replaced to Category
   <a class="dropdown-item" asp-area="Admin" asp-controller="Category" asp-action="Index">Category</a>
 
   the content of Category was displayed
+
+  11:54am
+
+  i created new js file name category.js in wwwroot and done the changes in that file 
+  after that i added the section section call of category.js in index.cshtml file 
+  and run the app the category list was working properly
