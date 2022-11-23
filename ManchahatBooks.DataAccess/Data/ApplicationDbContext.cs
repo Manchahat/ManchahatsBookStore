@@ -18,5 +18,6 @@ namespace ManchahatsBookStore.DataAccess.Data
 
         // added new statement which was given
         public DbSet<Category> Categories { get; set; }
+        public object CoverTypes { get; internal set; }
     }
 }

@@ -217,3 +217,12 @@ the rebuild it and checked the errors wnd tested is and was working.
 
 3:37pm
 continue part3
+
+5:26pm
+
+created covertype.cs in modles folder with name and id 
+after that i created clas and interface (Covertpyerepository and iCovertyperepository)
+in repository folder
+
+5:29pm
+in covertyperepository the error is which s cofusing and i am trying to fix 

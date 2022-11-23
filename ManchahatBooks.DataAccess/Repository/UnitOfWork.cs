@@ -22,22 +22,24 @@ namespace ManchahatBooks.DataAccess.Repository
 
         public ICategoryrepository Category { get; private set; }
 
+
         public ISP_Call SP_Call { get; private set; }
 
 
         public ICoverTypeRepository CoverType { get; private set; }
+       
+        //public ICoverTypeRepository CoverTypeRepository => throw new NotImplementedException();
 
-        //public ICoverTypeRepository CoverTypeRePository => throw new NotImplementedException();
         public void Dispose()
         {
             _db.Dispose();
         }
 
-       public ICategoryrepository GetCoverType()
+       /*public ICategoryrepository GetCoverType()
         {
             throw new NotImplementedException();
         }
-      
+      */
         public void save()
         {
             _db.SaveChanges();  // changes will be saved 
@@ -45,6 +47,7 @@ namespace ManchahatBooks.DataAccess.Repository
 
         public void Save()
         {
+             _db.SaveChanges();
             // throw new NotImplementedException();
         }
         
