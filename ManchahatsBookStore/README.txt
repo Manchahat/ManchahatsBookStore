@@ -192,7 +192,7 @@ changed the navigation and action replaced to Category
   11:54am
 
   i created new js file name category.js in wwwroot and done the changes in that file 
-  after that i added the section section call of category.js in index.cshtml file 
+  after that i added the  section call of category.js in index.cshtml file 
   and run the app the category list was working properly
 
   12:00pm
@@ -213,3 +213,7 @@ in caterory controllers i added the void Save() to interface Iunitwork which all
 12:30pm
 removed _db.Savechanges() method in categoryrepository.cs file 
 the rebuild it and checked the errors wnd tested is and was working.
+
+
+3:37pm
+continue part3
