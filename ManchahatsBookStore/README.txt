@@ -226,3 +226,7 @@ in repository folder
 
 5:29pm
 in covertyperepository the error is which s cofusing and i am trying to fix 
+
+5:40pm
+fixd the errors and created migration 20221115013858_AddCategoryToDb.cs
+abd updated it
