@@ -9,5 +9,7 @@ namespace ManchahatBooks.DataAccess.Repository.IRepository
         ICategoryrepository Category { get;  }
 
         ISP_Call SP_Call { get;  }
+
+        void Save();
     }
 }

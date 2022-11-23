@@ -25,7 +25,8 @@ namespace ManchahatBooks.DataAccess.Repository
 
             {
                 objFromDb.Name = category.Name;
-                _db.SaveChanges();
+                // _db.SaveChanges();
+                //_unitOfWork.save();
             }
         }
             

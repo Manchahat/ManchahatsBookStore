@@ -199,3 +199,17 @@ changed the navigation and action replaced to Category
 
   I created Upsert file and modified it with the given code 
   and another partial view file name (_CreateAndBackToListButton.cshtml)
+
+  12:10pm
+ 
+ modified upsert.cshtml file after that i navigate to category
+
+and in upsert.cshtml in changed the name from crate category to TITLE
+and added the section call.
+
+12:22pm
+in caterory controllers i added the void Save() to interface Iunitwork which allow to save method
+
+12:30pm
+removed _db.Savechanges() method in categoryrepository.cs file 
+the rebuild it and checked the errors wnd tested is and was working.

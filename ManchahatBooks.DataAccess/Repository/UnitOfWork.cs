@@ -31,5 +31,11 @@ namespace ManchahatBooks.DataAccess.Repository
         {
             _db.SaveChanges();
         }
+
+        public void Save()
+        {
+            // throw new NotImplementedException();
+        }
+        
     }
 }
