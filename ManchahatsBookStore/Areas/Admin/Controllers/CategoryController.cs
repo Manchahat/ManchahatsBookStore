@@ -1,5 +1,7 @@
-﻿using Abp.Domain.Uow;
+﻿
 using Microsoft.AspNetCore.Mvc;
+using ManchahatBooks.DataAccess.Repository.IRepository;
+using ManchahatBooks.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;

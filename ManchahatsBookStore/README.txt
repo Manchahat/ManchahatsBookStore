@@ -174,3 +174,11 @@ i don't know why my local host is not working fixed the errors but still its not
 11:45am
 
 while starting the website the error 500 is coming which is the main issue 
+
+
+2022-11-23
+11:04 am
+
+the error of local host which was showing 
+i fixed the error because of database and there was an error with the viewimports.cshtml and viewsstart.cshtml
+which is fixed and app is working for now

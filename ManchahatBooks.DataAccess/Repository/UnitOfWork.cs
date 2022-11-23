@@ -6,7 +6,7 @@ using System.Text;
 
 namespace ManchahatBooks.DataAccess.Repository
 {
-   public class UnitOfWork // created public to access the class
+   public class UnitOfWork : IUnitOfWork// created public to access the class
     {
         private readonly ApplicationDbContext _db;      // using statement
 
