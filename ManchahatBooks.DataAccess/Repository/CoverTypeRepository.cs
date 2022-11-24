@@ -29,10 +29,11 @@ namespace ManchahatBooks.DataAccess.Repository
         {
             //throw new NotImplementedException();
             //use .NET LINQ to retrieve the first or default category object
-          
-            
+            var objFromDb = _db.CoverTypes.FirstOrDefault(s => s.Id == covertype.Id);
+            if (objFromDb != null)//Save changes if not null
+
             {
-                
+                objFromDb.Name = covertype.Name;
                 //_db.SaveChanges();
                 //_unitOfWork.save();
             }

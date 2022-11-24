@@ -230,3 +230,10 @@ in covertyperepository the error is which s cofusing and i am trying to fix
 5:40pm
 fixd the errors and created migration 20221115013858_AddCategoryToDb.cs
 abd updated it
+
+6:05pm
+some of file were not updated so thats why i updated those files and the missing covertype  was created in sql server
+
+6:46pm
+i created product files in repostory foldaer and created product database and added on sql server
+

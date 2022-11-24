@@ -18,6 +18,7 @@ namespace ManchahatsBookStore.DataAccess.Data
 
         // added new statement which was given
         public DbSet<Category> Categories { get; set; }
-        public object CoverTypes { get; internal set; }
+        public DbSet<CoverType> CoverTypes { get; set; }
+        public DbSet<Product> Products { get; set; } // added theproduct to db
     }
 }
