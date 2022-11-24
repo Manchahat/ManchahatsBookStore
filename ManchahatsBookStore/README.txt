@@ -235,7 +235,13 @@ abd updated it
 some of file were not updated so thats why i updated those files and the missing covertype  was created in sql server
 
 6:46pm
-i created product files in repostory foldaer and created product database and added on sql server
+i created product files in repostory foldaer
+migrated it 20221123235909_AddProductToDb.cs
+and created product database and added on sql server
 
 7:14pm
 created the file name(covertype.controller) in controller and done some changes.
+
+7:30pm
+created view file of cover type 
+in which index.cshtml and upsert.cshtml file created 
