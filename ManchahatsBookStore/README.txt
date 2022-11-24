@@ -237,3 +237,5 @@ some of file were not updated so thats why i updated those files and the missing
 6:46pm
 i created product files in repostory foldaer and created product database and added on sql server
 
+7:14pm
+created the file name(covertype.controller) in controller and done some changes.
