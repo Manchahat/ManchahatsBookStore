@@ -245,3 +245,6 @@ created the file name(covertype.controller) in controller and done some changes.
 7:30pm
 created view file of cover type 
 in which index.cshtml and upsert.cshtml file created 
+
+9:01pm
+created product controller 
