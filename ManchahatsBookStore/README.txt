@@ -301,3 +301,35 @@ public const string Proc_CoverType_Get = "usp_GetCoverType";
 public const string Proc_CoverType_GetAll = "usp_GetCoverTypes";
 public const string Proc_CoverType_Update = "usp_UpdateCoverType";
 public const string Proc_CoverType_Delete = "usp_DeleteCoverType";
+
+
+4:51pm
+
+In Upsert.cshtml file  i modified it with this code
+<div class="form-group row">
+									<div class="col-4">
+										<label asp-for="Product.Price"></label>
+									</div>
+									<div class="col-8">
+										<input asp-for="Product.Price" class="form-control" />
+										<span asp-validation-for="Product.Price" class="text-danger"></span>
+									</div>
+								</div>
+								<div class="form-group row">
+									<div class="col-4">
+										<label asp-for="Product.Price50"></label>
+									</div>
+									<div class="col-8">
+										<input asp-for="Product.Price50" class="form-control" />
+										<span asp-validation-for="Product.Price50" class="text-danger"></span>
+									</div>
+								</div>
+								<div class="form-group row">
+									<div class="col-4">
+										<label asp-for="Product.Price100"></label>
+									</div>
+									<div class="col-8">
+										<input asp-for="Product.Price100" class="form-control" />
+										<span asp-validation-for="Product.Price100" class="text-danger"></span>
+									</div>
+								</div>
