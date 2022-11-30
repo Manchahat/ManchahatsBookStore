@@ -342,3 +342,7 @@ and build the application with no errors
 
 5:09pm
 In Index.cshtml file modified chnages to display product on the home page
+
+5:13pm
+
+the application is working perfectly and the content is showing oth the home page 
