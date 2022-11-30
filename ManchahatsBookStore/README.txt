@@ -269,3 +269,15 @@ and then Copied the category.js file in the Product.js file and didi some change
 
 3:27pm
 added new link to the Product in the DropDown in  _layout.cshtml
+
+4:41pm
+In Product.cs added three more properties
+	[Required]
+						[Range(1, 10000)]
+						public double Price { get; set; }
+						[Required]
+						[Range(1, 10000)]
+						public double Price50 { get; set; }
+						[Required]
+						[Range(1, 10000)]
+						public double Price100 { get; set; }
