@@ -250,3 +250,22 @@ in which index.cshtml and upsert.cshtml file created
 
 9:01pm
 created product controller 
+
+11-30-2022
+3:00pm
+
+added using statement AspNetCore.Hosting for it to work and Created a View Model in the models folder
+
+3:10pm
+created the ProductVM file and Installed the Microsoft.AspNetCore.Mvc.ViewFeatures package
+
+3:14pm
+Modifed the ProductController
+Commented the Upsert Post method then Added an index view file in the Areas/Admin/Views/Product folder
+
+3:20pm
+Created a new product.js file 
+and then Copied the category.js file in the Product.js file and didi some changes
+
+3:27pm
+added new link to the Product in the DropDown in  _layout.cshtml
