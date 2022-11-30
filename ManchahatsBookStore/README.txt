@@ -287,3 +287,17 @@ In Product.cs added three more properties
 Added migration and updated it
 add-migration AddNewValidationToProduct
 
+4:45pm
+added new properties and validations to the Productrepository.cs
+objFromDb.Price = product.Price;
+objFromDb.Price50 = product.Price50;
+objFromDb.Price100 = product.Price100;
+
+
+4:48pm
+in SD.cs file did some changes
+public const string Proc_CoverType_Create = "usp_CreateCoverType";
+public const string Proc_CoverType_Get = "usp_GetCoverType";
+public const string Proc_CoverType_GetAll = "usp_GetCoverTypes";
+public const string Proc_CoverType_Update = "usp_UpdateCoverType";
+public const string Proc_CoverType_Delete = "usp_DeleteCoverType";
