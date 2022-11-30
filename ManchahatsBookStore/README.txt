@@ -339,3 +339,6 @@ In Upsert.cshtml file  i modified it with this code
 
 In HomeController.cs file made some changes. 
 and build the application with no errors 
+
+5:09pm
+In Index.cshtml file modified chnages to display product on the home page
