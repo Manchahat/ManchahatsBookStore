@@ -281,3 +281,9 @@ In Product.cs added three more properties
 						[Required]
 						[Range(1, 10000)]
 						public double Price100 { get; set; }
+
+4:42pm
+
+Added migration and updated it
+add-migration AddNewValidationToProduct
+
