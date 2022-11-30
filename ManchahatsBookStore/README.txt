@@ -333,3 +333,9 @@ In Upsert.cshtml file  i modified it with this code
 										<span asp-validation-for="Product.Price100" class="text-danger"></span>
 									</div>
 								</div>
+
+
+5:05pm
+
+In HomeController.cs file made some changes. 
+and build the application with no errors 
